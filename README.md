@@ -1,0 +1,2 @@
+# static
+hadoop-study
